@@ -112,9 +112,9 @@ body{
 /* === Pen styling, ignore */
 
 h1 {
-  --font-size: clamp(6.25rem, 3.25rem + 15vw, 9.75rem);
-
-  font: 700 var(--font-size)/1 "Lato", sans-serif;
+  /* --font-size: clamp(6.25rem, 3.25rem + 15vw, 9.75rem); */
+  
+  /* font: 500 var(--font-size)/1 "Lato", sans-serif; */
   text-transform: uppercase;
   /* text-align: center; */
   margin: 0;
